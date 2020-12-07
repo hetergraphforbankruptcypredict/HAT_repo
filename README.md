@@ -12,9 +12,9 @@ Simply `%run main.py` for reproducing our work on our dataset.
 If you want to regenerate top-k type-specific neighbors and the test set and validation set. Please run the following code in order:
 
 
-%run random_walk_withrestart.py
-%run c_ineigh_feature_generation.py
-%run test_data_generation.py
+%run random_walk_withrestart.py  
+%run c_ineigh_feature_generation.py  
+%run test_data_generation.py  
 %run main.py
 
 ## About the dataset
