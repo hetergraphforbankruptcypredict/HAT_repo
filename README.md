@@ -36,20 +36,16 @@ test_data.pkl --> including graph inputs/ features/ training/validation/test set
 
 
 Dataset's statistics
-| Statistic                                 |Datasets|
-\# of company nodes                 13489 
-\# of individual nodes                  6855
-\# of total edges                        209195
-\# of $CIC_s$ edges                   53874
-\# of $CIC_b$ edges                 139413
-\# of $CC_s$ edges                    15908
+\# of company nodes:13489 
+\# of individual node:6855
+\# of total edges:209195
+\# of $CIC_s$ edges:53874
+\# of $CIC_b$ edges:139413
+\# of $CC_s$ edges:15908
 
-
-
-Labels Statistics
-| Statistic                                   |Labels |
-\# of bankrupt company             3566  
-\# of non-bankruptcy company  9923
-\# of bankrupt  before 2019        2432
-\# of bankrupt  in 2019                848
-\# of bankrupt  in 2020                216
+Statistic Labels
+\# of bankrupt company:3566  
+\# of non-bankruptcy company:9923
+\# of bankrupt  before 2019:2432
+\# of bankrupt  in 2019:848
+\# of bankrupt  in 2020:216
