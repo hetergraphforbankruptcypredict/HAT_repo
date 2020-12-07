@@ -23,29 +23,29 @@ To evaluate our proposed model in bankruptcy prediction, we collect and build a 
 
 This dataset was collected in early October 2020.
 
-Explanation of dataset files:
-c_c.npy --> company to company edges
-c_i.npy --> company to individual edges
-c_top_neigh.npy --> top 5 individual neighbors' nodes for each company 
-c_ineigh_feature --> top 5 individual neighbors' features for each company 
-company_bankrupt_before2019.npy --> company nodes which bankrupt before 2019
-label_ci_l.npy --> labels
-test_data.pkl --> including graph inputs/ features/ training/validation/test set index
+Explanation of dataset files:  
+c_c.npy --> company to company edges  
+c_i.npy --> company to individual edges  
+c_top_neigh.npy --> top 5 individual neighbors' nodes for each company   
+c_ineigh_feature --> top 5 individual neighbors' features for each company   
+company_bankrupt_before2019.npy --> company nodes which bankrupt before 2019  
+label_ci_l.npy --> labels  
+test_data.pkl --> including graph inputs/ features/ training/validation/test set index  
 
 *Please noted that, with the concern of privacy protection, this dataset has been preprocessed and anonymized. The statistics of our dataset is summarized as follows.
 
 
-Dataset's statistics
-\# of company nodes:13489 
-\# of individual node:6855
-\# of total edges:209195
-\# of $CIC_s$ edges:53874
-\# of $CIC_b$ edges:139413
-\# of $CC_s$ edges:15908
+Dataset's statistics  
+\# of company nodes:13489     
+\# of individual node:6855  
+\# of total edges:209195  
+\# of $CIC_s$ edges:53874  
+\# of $CIC_b$ edges:139413  
+\# of $CC_s$ edges:15908  
 
-Statistic Labels
-\# of bankrupt company:3566  
-\# of non-bankruptcy company:9923
-\# of bankrupt  before 2019:2432
-\# of bankrupt  in 2019:848
-\# of bankrupt  in 2020:216
+Statistic Labels  
+\# of bankrupt company:3566    
+\# of non-bankruptcy company:9923  
+\# of bankrupt  before 2019:2432  
+\# of bankrupt  in 2019:848  
+\# of bankrupt  in 2020:216  
