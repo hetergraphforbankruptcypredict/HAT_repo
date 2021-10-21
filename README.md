@@ -1,7 +1,7 @@
-# heterogeneous-graph-attention-network-for-SMEs-bankruptcy-prediction
+<!-- # heterogeneous-graph-attention-network-for-SMEs-bankruptcy-prediction -->
 <!-- This is the source code and the dataset for the paper "Heterogeneous Graph Attention Network for Small and Medium-sized Enterprises Bankruptcy Prediction" which has been submitted to PAKDD 2021. -->
 
-# Heterogeneous Graph Attention Network for SME's Bankruptcy Prediction
+<!-- # Heterogeneous Graph Attention Network for SME's Bankruptcy Prediction -->
 
 This source code is developed based on the implementation of HAN using DGL, which can be found on https://github.com/dmlc/dgl/tree/master/examples/pytorch/han.
 
